@@ -2,15 +2,17 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazA2cnI1OTcyYm53d2N1cDl3OXYzdno2ZG94NDIybnF2c3o2Nm8xMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.webp" />
 
-<img src="https://i.gifer.com/3vIG.gif" width="70px">&nbsp;***About me***
+***About me***
 
 I am a computer engineering student at the University of Costa Rica. I am passionate about learning and developing innovative, productive, and creative solutions. I have a strong technical foundation, education, and customer service.
 
 - 🌱 I’m currently learning:
-  - Vue.js
+  - Power BI
 - ✔ Ask me about anything, I am happy to help<br>
 
-📫 Reach out to me at: <a href="mailto:davidgonzav2003@gmail.com">davidgonzav2003@gmail.com</a>
+📫 Reach out to me at: 
+- <a href="mailto:davidgonzav2003@gmail.com">davidgonzav2003@gmail.com</a> <n/>
+- [Linkedin](https://www.linkedin.com/in/david-gonz%C3%A1lez-villanueva-413969169/)
 
 ## My Skills Include
 
@@ -37,26 +39,3 @@ I am a computer engineering student at the University of Costa Rica. I am passio
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 
 
-
-</span>
-
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=d4v7d&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/d4v7d)
-</div>
-
-
-<!--
-**d4v7d/d4v7d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
