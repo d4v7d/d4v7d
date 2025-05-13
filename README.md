@@ -8,6 +8,7 @@ I am a computer engineering student at the University of Costa Rica. I am passio
 
 - 🌱 I’m currently learning:
   - Power BI
+  - Pythorch
 - ✔ Ask me about anything, I am happy to help<br>
 
 📫 Reach out to me at: 
